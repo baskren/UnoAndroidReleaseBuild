@@ -1,0 +1,14 @@
+{
+  "solution": {
+    "path": "AndroidRelease.sln",
+    "projects": [
+		"AndroidRelease.Shared\\AndroidRelease.Shared.shproj",
+
+		"AndroidRelease.Mobile\\AndroidRelease.Mobile.csproj",
+
+		"AndroidRelease.Wasm\\AndroidRelease.Wasm.csproj",
+
+		"AndroidRelease.Skia.Gtk\\AndroidRelease.Skia.Gtk.csproj",
+    ]
+  }
+}

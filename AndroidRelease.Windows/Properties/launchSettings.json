@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"AndroidRelease.Windows (Package)": {
+			"commandName": "MsixPackage"
+		},
+		"AndroidRelease.Windows (Unpackaged)": {
+			"commandName": "Project"
+		}
+	}
+}
